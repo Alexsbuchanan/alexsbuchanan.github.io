@@ -2,3 +2,7 @@
   position: relative;
   background-image: url("imgs/einstein.jpg");
 }
+
+h1 {  
+  position: absolute;
+}
