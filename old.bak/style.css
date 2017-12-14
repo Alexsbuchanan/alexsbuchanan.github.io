@@ -1,0 +1,12 @@
+.title {
+  position: relative;
+  background-image: url("imgs/einstein.jpg");
+}
+
+h1 {  
+  position: absolute;
+  top: 200px; 
+  left: 0; 
+  width: 100%;
+  /* text-align: left; */
+}
